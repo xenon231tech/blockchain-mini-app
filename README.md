@@ -136,3 +136,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Add accessibility features
 - Implemented add accessibility features
+
+
+## Add accessibility features
+- Implementation complete
