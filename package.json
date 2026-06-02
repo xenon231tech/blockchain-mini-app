@@ -16,14 +16,19 @@
     "professional",
     "blockchain"
   ],
-  "author": "xenon231tech",
+  "author": {
+    "name": "Xenon",
+    "email": "xannrlcs@gmail.com",
+    "url": "https://xenon.dev"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/xenon231tech/blockchain-mini-app.git"
   },
   "bugs": {
-    "url": "https://github.com/xenon231tech/blockchain-mini-app/issues"
+    "url": "https://github.com/xenon231tech/blockchain-mini-app/issues",
+    "email": "xannrlcs@gmail.com"
   },
-  "homepage": "https://github.com/xenon231tech/blockchain-mini-app#readme"
+  "homepage": "https://xenon.dev"
 }
